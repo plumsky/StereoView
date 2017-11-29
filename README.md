@@ -4,6 +4,11 @@
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-StereoView-green.svg?style=true)](https://android-arsenal.com/details/3/4058)
 
+Build status
+==============
+
+[![Build status](https://travis-ci.org/plumsky/StereoView.svg?branch=master)](https://travis-ci.org/plumsky/StereoView)
+
 **This is the original animation effects .**
 
 ![](https://github.com/ImmortalZ/StereoView/blob/master/img/1.gif)
